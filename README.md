@@ -21,7 +21,8 @@ Orders.csv – Order-level data including product, quantity, and revenue
 Details.csv – Additional dataset containing product and customer details
 
 📈 Dashboard Preview
-![Uploading Dashboard_Screenshot.png…]()
+<img width="1375" height="868" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/583843d0-ba22-470f-83e7-695d4b439166" />
+
 
 
 🧠 Tools & Skills Used:
